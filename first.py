@@ -25,6 +25,7 @@ def find_missing_number(arr: list) -> int:
 
 arr =[3,0,1]
 
-printfind_missing_number(arr)) 
+print(find_missing_number(arr)) 
+
 
 
